@@ -10,7 +10,7 @@ int main() {
 
     z = x / y;
 
-    printf("Result = %d / %d = %d\n", x, y, z);
+    printf("Result: %d / %d = %d\n", x, y, z);
     return 0;
 
 }
